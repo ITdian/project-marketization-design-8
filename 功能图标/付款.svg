@@ -4,31 +4,34 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#020000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
-	
-		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#020000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#020000;stroke-width:50;stroke-miterlimit:10;}
-	.st3{fill-rule:evenodd;clip-rule:evenodd;stroke:#020000;stroke-width:5;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:50;stroke-miterlimit:10;}
-	.st7{fill:none;stroke:#000000;stroke-width:50;stroke-miterlimit:10;}
-	.st8{fill:none;stroke:#020202;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
-	.st9{fill:#5A9BFD;stroke:#5A9BFD;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
-	.st10{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st12{fill:none;stroke:#020000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
-	.st13{fill:none;stroke:#020000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
-	
-		.st15{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st16{fill-rule:evenodd;clip-rule:evenodd;}
-	.st17{fill:none;}
+	.st0{fill:#020000;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill:#020202;}
+	.st3{fill:#5A9BFD;stroke:#5A9BFD;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#020000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;}
+	.st7{fill:none;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<path class="st15" d="M427.7,520.2V247.6c0-19.9,16.3-36.2,36.2-36.2h279.3c19.9,0,36.2,16.3,36.2,36.2v422.8
-	c0,19.9-16.3,36.2-36.2,36.2H463.9c-10.9,0-20.7-4.9-27.3-12.5"/>
-<line class="st15" x1="667.1" y1="211.4" x2="667.1" y2="706.6"/>
-<polyline class="st15" points="208.7,786.3 208.7,516.5 423.4,334.6 "/>
-<path class="st15" d="M325.7,623.7c0-1.7,151.7-142.5,151.7-142.5s30.5-18.4,69.5,6.3c39.1,24.7,25.3,82.2,0,108
-	c-25.3,25.9-221.3,190.8-221.3,190.8"/>
+<g>
+	<path d="M743.1,731.6H463.9c-17.7,0-34.5-7.7-46.2-21.1c-9.1-10.4-8-26.2,2.5-35.3c10.4-9.1,26.2-8,35.3,2.5
+		c2.2,2.5,5.2,3.9,8.4,3.9h279.3c6.1,0,11.2-5.1,11.2-11.2V247.6c0-6.1-5.1-11.2-11.2-11.2H463.9c-6.1,0-11.2,5.1-11.2,11.2v272.7
+		c0,13.8-11.2,25-25,25c-13.8,0-25-11.2-25-25V247.6c0-33.7,27.5-61.2,61.2-61.2h279.3c33.7,0,61.2,27.5,61.2,61.2v422.8
+		C804.3,704.1,776.9,731.6,743.1,731.6z"/>
+</g>
+<g>
+	<path d="M667.1,731.6c-13.8,0-25-11.2-25-25V211.4c0-13.8,11.2-25,25-25s25,11.2,25,25v495.2C692.1,720.4,680.9,731.6,667.1,731.6z
+		"/>
+</g>
+<g>
+	<path d="M208.7,811.3c-13.8,0-25-11.2-25-25V516.5c0-7.3,3.2-14.3,8.8-19.1l214.6-181.9c10.5-8.9,26.3-7.6,35.2,2.9
+		c8.9,10.5,7.6,26.3-2.9,35.2L233.7,528.1v258.2C233.7,800.1,222.5,811.3,208.7,811.3z"/>
+</g>
+<g>
+	<path d="M325.7,811.3c-7.1,0-14.2-3-19.1-8.9c-8.9-10.6-7.5-26.3,3-35.2C363.8,721.5,509,598.6,529.1,578c9.8-10,19.1-30.5,17-48.6
+		c-1.1-9.4-5.2-16.2-12.5-20.9c-20.8-13.2-37-8.6-41.8-6.7c-53.3,49.5-136.9,127.4-146.7,137.5c-4.6,5.6-11.6,9.2-19.4,9.2
+		c-13.8,0-25-11.2-25-25c0-10.9,5.3-16.1,14.1-24.6c4-3.9,9.9-9.5,17.4-16.6c12.6-11.9,30.2-28.4,52.3-49
+		c37.5-35,75.5-70.3,75.9-70.7c1.3-1.2,2.6-2.2,4.1-3.1c16.2-9.8,54.7-19.4,95.8,6.6c20,12.6,32.6,33,35.4,57.3
+		c3.6,30.8-8.8,66.7-30.9,89.3c-25.8,26.4-215,185.7-223,192.4C337.1,809.4,331.4,811.3,325.7,811.3z"/>
+</g>
 </svg>
